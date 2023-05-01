@@ -1,13 +1,11 @@
-# test123
+# README generator
 ## Description
-asdasdsad
+This is a node based application, that uses inquirer to ask users questions about their project, and based on their input, returns a README.md file
 ## Installaion
-asdasdsad
+First clone the project, then npm i
 ## Usage
-asdsdaasd
+First open a terminal at the root, then run "node index.js"
 ## Credits
-asdasdasdsad
+Jesse Elkins
 ## License
-MIT
-## Tests
-sdfsdfsdf
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
